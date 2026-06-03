@@ -1,4 +1,4 @@
-package com.sruj.placement.exception;
+package com.sruj.exception;
 
 import java.util.HashMap;
 import java.util.Map;
